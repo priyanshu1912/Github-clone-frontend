@@ -7,7 +7,7 @@
 
 # Project information
 
-## Frontend technologies
+### Frontend technologies
 1. React.JS
 2. TailwindCSS for styling
 3. Redux-toolkit for state management
