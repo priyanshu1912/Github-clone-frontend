@@ -4,7 +4,7 @@ import HomePage from "./screens/home/HomePage";
 import RequireAuth from "./components/RequireAuth";
 import axios from "axios";
 
-axios.defaults.baseURL = process.env.REACT_APP_PRODUCTION_URL;
+axios.defaults.baseURL = "https://react-githubapi-backend-vilx.onrender.com/";
 
 function App() {
   return (
