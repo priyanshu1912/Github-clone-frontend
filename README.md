@@ -1,12 +1,11 @@
-### Steps to run the project in local environment
-
+# Steps to run the project in local environment
 1. Clone the repository into local machine using git clone
 2. Open the folder in any IDE e.g. VS Code
 3. Run the command <mark>npm install</mark> to install the dev dependencies
 4. Run command <mark>npm start</mark> to run the project
 
 
-### Project information
+# Project information
 
 ## Frontend technologies
 1. React.JS
