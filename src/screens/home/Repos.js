@@ -47,7 +47,7 @@ const Repos = () => {
           <div className="relative w-full h-full overflow-y-scroll">
             <div className="absolute w-full h-full grid grid-cols-3 gap-5 pr-3">
               {currentBlogs.map((item) => {
-                return <RepoComponent data={item} />;
+                return <RepoComponent data={item} key={item.id} />;
               })}
             </div>
           </div>
