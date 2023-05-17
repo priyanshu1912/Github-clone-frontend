@@ -9,8 +9,8 @@
 
 ### Frontend technologies
 1. React.JS
-2. TailwindCSS for styling
-3. Redux-toolkit for state management
+2. TailwindCSS
+3. Redux-toolkit
 
 ### Backend technologies
 1. Node.JS
